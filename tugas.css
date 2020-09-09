@@ -1,0 +1,16 @@
+ul{
+	background: blue;
+	padding: 20px;
+}
+ul li{
+	background: red;
+	margin: 10px;
+}
+ol{
+	background: black;
+	padding: 20px;
+}
+ol li{
+	background: blue;
+	margin: 10px;
+}
